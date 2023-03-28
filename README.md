@@ -2,7 +2,7 @@
 
 ⚡ Clear Code
 
-⚡ Adding and Deleting Reviews / Calculation of Statistics
+⚡ Search Field/Deleting and Adding Contacts
 
 ⚡ Used  PropTypes and LocalStorage
 
